@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabaTincheAirlines", "BabaTincheAirlines\BabaTincheAirlines.csproj", "{AD9A0F08-FAD8-4E83-A209-EDD3855038E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numerology", "Numerology\Numerology.csproj", "{8DEDFE0E-6E57-444C-A3BF-91025605B318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockLq", "RockLq\RockLq.csproj", "{0E58545B-DC58-48F9-AAA0-57AF9BE8992A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gambling", "Gambling\Gambling.csproj", "{E7A7F293-AE9C-4907-A2D8-9FF644146349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitBuilder", "BitBuilder\BitBuilder.csproj", "{78C8E88D-4C07-4700-AEAA-578423BF38F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitBuilder2", "BitBuilder2\BitBuilder2.csproj", "{69DE520B-E485-4C2D-9C58-DCBDA55935FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD9A0F08-FAD8-4E83-A209-EDD3855038E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9A0F08-FAD8-4E83-A209-EDD3855038E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9A0F08-FAD8-4E83-A209-EDD3855038E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9A0F08-FAD8-4E83-A209-EDD3855038E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEDFE0E-6E57-444C-A3BF-91025605B318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEDFE0E-6E57-444C-A3BF-91025605B318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEDFE0E-6E57-444C-A3BF-91025605B318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEDFE0E-6E57-444C-A3BF-91025605B318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E58545B-DC58-48F9-AAA0-57AF9BE8992A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E58545B-DC58-48F9-AAA0-57AF9BE8992A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E58545B-DC58-48F9-AAA0-57AF9BE8992A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E58545B-DC58-48F9-AAA0-57AF9BE8992A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A7F293-AE9C-4907-A2D8-9FF644146349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A7F293-AE9C-4907-A2D8-9FF644146349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A7F293-AE9C-4907-A2D8-9FF644146349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A7F293-AE9C-4907-A2D8-9FF644146349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C8E88D-4C07-4700-AEAA-578423BF38F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C8E88D-4C07-4700-AEAA-578423BF38F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C8E88D-4C07-4700-AEAA-578423BF38F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C8E88D-4C07-4700-AEAA-578423BF38F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69DE520B-E485-4C2D-9C58-DCBDA55935FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DE520B-E485-4C2D-9C58-DCBDA55935FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DE520B-E485-4C2D-9C58-DCBDA55935FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DE520B-E485-4C2D-9C58-DCBDA55935FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

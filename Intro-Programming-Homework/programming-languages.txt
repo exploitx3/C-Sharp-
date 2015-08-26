@@ -1,0 +1,44 @@
+1. Java
+Java is top pick as one of the most popular programming languages,
+used for building server-side applications to video games and mobile apps.
+It's also the core foundation for developing Android apps, making it a favorite of many programmers.
+With its WORA mantra (write once, run anywhere), it's designed to be portable
+and run happily across multiple software platforms.
+
+
+2. Python
+Python is a one-stop shop. There's a Python framework for pretty much anything,
+from web apps to data analysis. In fact, WordStream is written in Python! You're the best bud. 
+Python is often heralded as the easiest programming language to learn, with its simple and straightforward syntax.
+Python has risen in popularity due to Google's investment in it over the past decade
+(in fact, one recent study has shown Python to be the most commonly taught programming language in U.S. schools).
+Other applications built with Python include Pinterest and Instagram.
+
+
+3. C++
+If you saw C++ on a report card, you'd be pretty bummed. Maybe a bit confused, too (is it actually a B-?). 
+However, C++ is not the bizarrely bad grade it seems to be. It's often the first programming language taught in college 
+(well, it was for me 10 years ago). I thought it was a nice "in-between" language in that it was object oriented 
+without having to be fanatical about it. It was also low level enough to be close to hardware, 
+but no so low level that you had to do everything manually. 
+Because there are so many C++ compilers, you can write stuff in C++ and have it run pretty much anywhere.
+
+4. Ruby
+Ruby (also known as Ruby on Rails) is a major supplier of web apps. 
+Ruby is popular due to its ease of learning (it's very straightforward) and power. 
+Ruby knowledge is in high demand these days!
+
+5. JavaScript
+JavaScript (which, confusingly, is not at all related to Java) is another favorite programming language because 
+it's so ubiquitous on the web--it's basically everywhere. JavaScript allows developers to add interactive 
+elements to their website, and its presence is felt across the internet. 
+At WordStream, we use a JavaScript library called JQuery to make our JavaScript work even easier.
+
+6. C#
+C# (pronounced C-sharp, not C-hashtag for you Twitter fans) is the language used in order to develop Microsoft apps. 
+C# is syntactically nearly identical to Java. 
+I've spent much time training with C#, but if you're good at Java, you'll likely have an easy time jumping onto C#. 
+If you're looking to work on Microsoft apps, C# is the way to go. 
+C# opens a lot of Windows (har-har).
+
+SOURCE:http://www.inc.com/larry-kim/10-most-popular-programming-languages-today.html
