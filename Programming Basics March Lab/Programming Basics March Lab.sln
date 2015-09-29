@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Beers", "01. Beers\01. Beers.csproj", "{B4CC7FEF-8B2F-44D6-A0BD-59EE4BEA5E7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Fun with Matrices", "02. Fun with Matrices\02. Fun with Matrices.csproj", "{5773D004-318A-4E0C-9B90-EF9F00B13CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Byte Party", "03. Byte Party\03. Byte Party.csproj", "{624B8AA5-85C7-47EB-84B6-2A689E4421C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Tetris", "04. Tetris\04. Tetris.csproj", "{EB30AD89-5973-4DC8-AC37-D08F96A1A8EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CC7FEF-8B2F-44D6-A0BD-59EE4BEA5E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CC7FEF-8B2F-44D6-A0BD-59EE4BEA5E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CC7FEF-8B2F-44D6-A0BD-59EE4BEA5E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CC7FEF-8B2F-44D6-A0BD-59EE4BEA5E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5773D004-318A-4E0C-9B90-EF9F00B13CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5773D004-318A-4E0C-9B90-EF9F00B13CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5773D004-318A-4E0C-9B90-EF9F00B13CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5773D004-318A-4E0C-9B90-EF9F00B13CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624B8AA5-85C7-47EB-84B6-2A689E4421C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624B8AA5-85C7-47EB-84B6-2A689E4421C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624B8AA5-85C7-47EB-84B6-2A689E4421C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624B8AA5-85C7-47EB-84B6-2A689E4421C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB30AD89-5973-4DC8-AC37-D08F96A1A8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB30AD89-5973-4DC8-AC37-D08F96A1A8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB30AD89-5973-4DC8-AC37-D08F96A1A8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB30AD89-5973-4DC8-AC37-D08F96A1A8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

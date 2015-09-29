@@ -17,25 +17,18 @@ namespace LightTheTorches
             
             for (int i = 0,j=0; i < numRooms; i++,j++)
             {
+                j %= strLine.Length;
                 rooms[i] = strLine[j];
-                if(j == strLine.Length-1)
-                {
-                    j=-1;
-                }
-            }
-           
+                
+            }           
            
             int state = numRooms / 2;
-            string[] command = new string[11];
+            string[] command = Console.ReadLine().Split(' ');
             
             int secondState = 0;
             while(command[0] != "END")
             {
-                command = Console.ReadLine().Split(' ');
-                if(command[0] == "END")
-                {
-                    break;
-                }
+                
                 
                 secondState = state;
               
@@ -57,10 +50,7 @@ namespace LightTheTorches
                             rooms[state] = 'D';
                         }
                     }
-                    else
-                    {
-                        continue;
-                    }
+                   
                 }
                 if(command[0] == "RIGHT")
                 {
@@ -79,11 +69,9 @@ namespace LightTheTorches
                         {
                             rooms[state] = 'D';
                         }
-                    }else
-                    {
-                        continue;
                     }
                 }
+                command = Console.ReadLine().Split(' ');
             }
             int darkCount = 0;
             for (int i = 0; i < rooms.Length; i++)
@@ -98,3 +86,11 @@ namespace LightTheTorches
         }
     }
 }
+   
+  
+  
+  
+  
+
+
+

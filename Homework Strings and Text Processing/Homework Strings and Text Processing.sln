@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Reverse String", "1. Reverse String\1. Reverse String.csproj", "{6F6ACBC7-3E5E-4C03-A596-4613A0919699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. String Length", "2. String Length\2. String Length.csproj", "{18DED37C-5EE8-4AC9-B7A8-CFCCB5488010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Count Substring Occurrences", "3. Count Substring Occurrences\3. Count Substring Occurrences.csproj", "{6F2863B4-1112-4123-8A00-B2D1097F8D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Text Filter", "4. Text Filter\4. Text Filter.csproj", "{037231B5-D8B2-401B-B1EB-7B73B9389B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Unicode Characters", "5. Unicode Characters\5. Unicode Characters.csproj", "{D92EF628-8F88-4FA2-BC82-C7A2E6B10CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Palindromes", "6. Palindromes\6. Palindromes.csproj", "{4367256F-F931-47CD-9713-C1CDC6334453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Letters Change Numbers", "7. Letters Change Numbers\7. Letters Change Numbers.csproj", "{2DD04724-CE23-4DEF-BC0F-47D473ABF479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F6ACBC7-3E5E-4C03-A596-4613A0919699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6ACBC7-3E5E-4C03-A596-4613A0919699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6ACBC7-3E5E-4C03-A596-4613A0919699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6ACBC7-3E5E-4C03-A596-4613A0919699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DED37C-5EE8-4AC9-B7A8-CFCCB5488010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DED37C-5EE8-4AC9-B7A8-CFCCB5488010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DED37C-5EE8-4AC9-B7A8-CFCCB5488010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DED37C-5EE8-4AC9-B7A8-CFCCB5488010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2863B4-1112-4123-8A00-B2D1097F8D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2863B4-1112-4123-8A00-B2D1097F8D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2863B4-1112-4123-8A00-B2D1097F8D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2863B4-1112-4123-8A00-B2D1097F8D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037231B5-D8B2-401B-B1EB-7B73B9389B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037231B5-D8B2-401B-B1EB-7B73B9389B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037231B5-D8B2-401B-B1EB-7B73B9389B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037231B5-D8B2-401B-B1EB-7B73B9389B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92EF628-8F88-4FA2-BC82-C7A2E6B10CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92EF628-8F88-4FA2-BC82-C7A2E6B10CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92EF628-8F88-4FA2-BC82-C7A2E6B10CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92EF628-8F88-4FA2-BC82-C7A2E6B10CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4367256F-F931-47CD-9713-C1CDC6334453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4367256F-F931-47CD-9713-C1CDC6334453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4367256F-F931-47CD-9713-C1CDC6334453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4367256F-F931-47CD-9713-C1CDC6334453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD04724-CE23-4DEF-BC0F-47D473ABF479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD04724-CE23-4DEF-BC0F-47D473ABF479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD04724-CE23-4DEF-BC0F-47D473ABF479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD04724-CE23-4DEF-BC0F-47D473ABF479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
